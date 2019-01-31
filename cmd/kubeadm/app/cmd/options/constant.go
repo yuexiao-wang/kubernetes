@@ -116,4 +116,4 @@ const TokenDiscoverySkipCAHash = "discovery-token-unsafe-skip-ca-verification"
 const FileDiscovery = "discovery-file"
 
 // ControlPlane flag instruct kubeadm to create a new control plane instance on this node
-const ControlPlane = "experimental-control-plane"
+const ControlPlane = "control-plane"
